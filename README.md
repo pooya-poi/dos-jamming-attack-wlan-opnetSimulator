@@ -1,6 +1,6 @@
-# DOS jamming attack in OPNET MODOLER 14.5
+# DOS jamming attack in OPNET MODELER 14.5
 
-Simulating DOS jamming attack in OPNET MODOLER 14.5.
+Simulating DOS jamming attack in OPNET MODELER 14.5.
 There are 3 scenarios in this project:
 
  1. Normal traffic
