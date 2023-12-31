@@ -1,0 +1,12 @@
+
+[Log Info:]
+version :	1
+row_count :	7
+max_log_row :	5000
+max_file_row :	1000
+hide_date :	FALSE
+include_severity :	TRUE
+file_count :	1
+
+[File List:]
+15048_12-30-2023_10.48.39	7	10:48:40 Dec 30 2023	10:48:57 Dec 30 2023

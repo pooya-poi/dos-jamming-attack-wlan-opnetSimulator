@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<network locale="C" version="1.6">
+	<subnet name="top" selected="FALSE">
+		<subnet name="Office Network">
+			<node name="node_0" selected="TRUE">
+				<property name="displayed x" value="-24.4449547064"/>
+				<property name="displayed y" value="37.2280286116"/>
+			</node>
+			<node name="node_1" selected="TRUE">
+				<property name="displayed x" value="102.75706366"/>
+				<property name="displayed y" value="51.5625"/>
+			</node>
+			<node name="node_2" selected="TRUE">
+				<property name="displayed x" value="162.88184438"/>
+				<property name="displayed y" value="22.3752103502"/>
+			</node>
+			<node name="node_3" selected="TRUE">
+				<property name="displayed x" value="121.965331857"/>
+				<property name="displayed y" value="-51.5625"/>
+			</node>
+			<node name="node_4" selected="TRUE">
+				<property name="displayed x" value="25.5528220589"/>
+				<property name="displayed y" value="-34.0194717827"/>
+			</node>
+			<node name="node_5" selected="TRUE">
+				<property name="displayed x" value="-100.440444704"/>
+				<property name="displayed y" value="-33.4891230093"/>
+			</node>
+			<node name="node_6" selected="TRUE">
+				<property name="displayed x" value="-162.88184438"/>
+				<property name="displayed y" value="-46.7988466233"/>
+			</node>
+			<node name="node_7" selected="TRUE">
+				<property name="displayed x" value="-153.308335554"/>
+				<property name="displayed y" value="49.2707737831"/>
+			</node>
+		</subnet>
+		<property name="view string" value="Default View"/>
+		<property name="overlay visualizations" value="FALSE"/>
+		<property name="show view banners" value="FALSE"/>
+		<property name="selection behavior" value="Share"/>
+		<property name="subnet manifestation" value="Never"/>
+		<property name="node manifestation" value="Featured, Associate"/>
+		<property name="link manifestation" value="Featured, Associate"/>
+		<property name="path manifestation" value="Featured"/>
+		<property name="demand manifestation" value="Featured"/>
+		<property name="hop distance" value="1"/>
+		<property name="layout iterations" value="30"/>
+		<property name="full color connections between featured" value="TRUE"/>
+	</subnet>
+</network>
